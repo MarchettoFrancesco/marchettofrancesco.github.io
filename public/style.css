@@ -124,7 +124,7 @@ a{
     02. Header
 ====================================== */
 .banner-image{
-    height: 99vh !important;
+    height: 90vh !important;
 }
 .banner-image{
     /* background-color: #e7e7e7;  */
@@ -132,7 +132,7 @@ a{
 
 }
 .ondab{
-    position: absolute;
+    position: absolute ;
     bottom: 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ a{
 [data-theme=light] .ondan{visibility: hidden;}
 [data-theme=dark] .ondab{visibility: hidden;}
 .ondan{
-    position: absolute;
+    position: absolute ;
     bottom: 0;
     background-size: cover;
     background-repeat: no-repeat;
