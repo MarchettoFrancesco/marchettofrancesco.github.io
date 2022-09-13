@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <!-- Titolo -->
+        <title>Francesco's portfolio website</title>
+    <!-- fine titolo -->
+    <!-- meta -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="canvas">
+    <!-- script pre-->
+        <script src="themetoggle.js"></script>
+        <script src="js/swiper-bundle.min.js"></script>
+        <script src="https://unpkg.com/scrollreveal"></script>
+
+    <!-- === Stylesheets - links ===-->
+        <link rel="stylesheet" href="public/style.css">
+        <link rel="stylesheet" href="css/swiper-bundle.min.css">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+        <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+        <link rel="icon" href="images/rlogo.png" />
+</head>
+
+<body>
+    <!-- === Header START === -->
+    
+        <header class="header-area particles section" id="header" translate="no">
+            <!-- Navbar -->
+            <nav class="navbar main-menu fixed-top navbar-expand-lg navbar-dark">
+                <div class="container">
+
+                    <div class="navbar-logo">
+                        <a href="#header"><img src="images/logonuovo.png" class="logo"></a>
+                    </div>
+                    
+                    <button type="button" class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navbar">
+                    <i class="fa-solid fa-bars "></i>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <div class="mx-auto"></div>
+                        <ul class="navbar-nav">
+                            <li class="nav-item"> <a id="nav" href="#header" class="nav-link text-black" translate="no"> Home </a></li>
+                            <li class="nav-item"> <a id="nav1" href="#about"  class="nav-link text-black" translate="no"> About </a></li>
+                            <li class="nav-item"> <a id="nav2" href="#portfolio" class="nav-link text-black" translate="no"> Portfolio </a></li>
+                            <li class="nav-item"> <a id="nav3" href="#contact" class="nav-link text-black" translate="no"> Hire me </a></li>
+                            <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">       
+                                <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+                                    <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+                                    <g class="sun-beams" stroke="currentColor">
+                                    <line x1="12" y1="1" x2="12" y2="3" />
+                                    <line x1="12" y1="21" x2="12" y2="23" />
+                                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+                                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+                                    <line x1="1" y1="12" x2="3" y2="12" />
+                                    <line x1="21" y1="12" x2="23" y2="12" />
+                                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+                                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+                                    </g>
+                                    <mask class="moon" id="moon-mask">
+                                        <rect x="0" y="0" width="100%" height="100%" fill="white" />
+                                        <circle cx="24" cy="10" r="6" fill="black" />
+                                    </mask>
+                                </svg>
+                            </button>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            
+            <!-- Navbar End -->
+            <!-- Banner Image -->
+            <div class ="banner-image w-100 d-flex justify-content-center align-items-center" >
+                <div class="container">
+                    <div class="profile-pic">
+                        <img src="images/IMG_20220905_161851.png">
+                    </div>
+                    <div class="content text-center">
+                        <h1>
+                        HI I'M
+                        <b class="typing-text"></b>
+                        </h1>
+                    </div>
+                </div>
+                <svg class="ondab" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 318">
+                    <path fill="#fff" fill-opacity="1" d="M0,160L120,176C240,192,480,224,720,213.3C960,203,1200,149,1320,122.7L1440,96L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+                </svg>
+                <svg class="ondan" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 318">
+                    <path fill="rgb(40, 40, 43)" fill-opacity="1" d="M0,160L120,176C240,192,480,224,720,213.3C960,203,1200,149,1320,122.7L1440,96L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+                </svg>
+                
+            </div>
+
+        </header>    
+    <!-- === Header END === -->
+
+    <!-- === About START === -->
+        <div id="about">
+            <div class="container">
+            <h2 class="section__title">About Me</h2>
+            <div class="row">
+                <div class="right-content">
+                    <p>Hello! My name is Francesco and im a junior Software Engineer, based in Italy. I'm currently enrolled in
+                        a IoT, Machine Learning and Big Data Bachelor Degree at the University of Udine.
+                        <br><br>
+                        I'm seeking to apply and expand my knowledge and skills towards working in a collaborative environment to develop quality
+                        software solutions that address and solve business problems; I also have an Ability and willingness 
+                        to innovate and learn new technologies. In my free time i like to workout, read and build blockchain
+                        related projects, matter of fact i was awarded for one in the 2022 Tezos summer Hackaton. </p>
+                </div>
+                
+            </div>
+            </div>
+            
+        </div>
+    <!-- === About END === -->
+
+    <!-- === Skills START === -->
+    <div class="skills px-lg-5">
+        <div class="container">
+
+            <div class="row pb-4">
+                <div class="col-lg-8">
+                    <h2 class="section__title">Skills</h2>
+                </div>
+            </div>
+
+            <div class="row gy-4">
+                <div class="col-md-4">
+                    <div class="service p-4 bg-base rounded-4 shadow-effect">
+                        <div class="iconbox rounded-4">
+                            <i class="fa-solid fa-code"></i>
+                        </div>
+                        <h5 class="mt-4 mb-2">Programming</h5>
+                        <p>Proficiency in programming languages like Java, C, Scheme and R. <br>
+                            Knowledge of Data Structures and Algorithms, experience in OOP.</p> 
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="service p-4 bg-base rounded-4 shadow-effect bl">
+                        <div class="iconbox rounded-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.06 122.88"><path d="M34.43 47.86L52.8 37.6V18.31a9.233 9.233 0 01-5.46-3.16L17.91 32.18c.35.98.54 2.03.54 3.13 0 .92-.13 1.8-.38 2.64l16.36 9.91zm11.35-35.38a9.231 9.231 0 01-.59-3.25c0-2.55 1.03-4.86 2.7-6.53S51.87 0 54.42 0c2.55 0 4.86 1.03 6.53 2.7a9.205 9.205 0 012.7 6.53c0 1.12-.2 2.19-.56 3.18l29.57 17.1c.21-.25.42-.5.65-.73a9.205 9.205 0 016.53-2.7c2.55 0 4.86 1.03 6.53 2.7a9.205 9.205 0 012.7 6.53c0 2.55-1.03 4.85-2.7 6.52a9.194 9.194 0 01-5.32 2.62v33.91c2.07.27 3.92 1.22 5.32 2.62 1.67 1.67 2.7 3.98 2.7 6.52a9.222 9.222 0 01-9.23 9.23 9.205 9.205 0 01-7.15-3.39l-29.61 17.12c.36.99.56 2.06.56 3.18 0 2.55-1.03 4.86-2.7 6.53a9.205 9.205 0 01-6.53 2.7c-2.55 0-4.86-1.03-6.53-2.7s-2.7-3.98-2.7-6.53c0-1.14.21-2.24.59-3.25L16.35 93.38a9.205 9.205 0 01-7.13 3.36c-2.55 0-4.86-1.03-6.53-2.7C1.03 92.37 0 90.06 0 87.51s1.03-4.85 2.7-6.52a9.242 9.242 0 015.25-2.62V44.44a9.18 9.18 0 01-5.25-2.62A9.164 9.164 0 010 35.3c0-2.55 1.03-4.86 2.7-6.53a9.205 9.205 0 016.53-2.7 9.205 9.205 0 017.16 3.4l29.39-16.99zm15.76 2.61a9.192 9.192 0 01-5.55 3.23V37.6l18.33 10.62 16.85-9.74c-.37-.99-.56-2.07-.56-3.18 0-1.08.19-2.13.53-3.09l-29.6-17.12zm36.69 29.3a9.159 9.159 0 01-4.92-2.56c-.19-.19-.37-.38-.54-.59l-16.82 9.72v20.78l16.89 9.75c.15-.17.3-.34.46-.5a9.194 9.194 0 014.92-2.56V44.39h.01zm-7.07 46.27c-.36-.98-.55-2.04-.55-3.14 0-1.16.21-2.27.61-3.3l-16.34-9.43-18.89 10.98v18.79a9.192 9.192 0 015.55 3.23l29.62-17.13zm-43.82 17.06a9.233 9.233 0 015.46-3.16V85.68l-18.96-11-16.09 9.29c.45 1.09.71 2.29.71 3.55 0 1.12-.2 2.19-.56 3.18l29.44 17.02zM10.76 78.41c1.93.32 3.66 1.25 4.99 2.58.1.1.19.2.28.3l16.39-9.46V50.36L16.64 40.8c-.27.37-.57.71-.89 1.03a9.255 9.255 0 01-4.99 2.58v34zM9.24 41.34c.04 0 .08-.01.12-.01h.08a6 6 0 004.06-1.76 6.023 6.023 0 001.77-4.27c0-1.67-.68-3.18-1.77-4.27-1.09-1.09-2.6-1.77-4.27-1.77s-3.18.68-4.27 1.77a6.023 6.023 0 00-1.77 4.27c0 1.67.68 3.18 1.77 4.27a6.03 6.03 0 004.28 1.77zm49.44 68.05a6.023 6.023 0 00-4.27-1.77c-1.67 0-3.18.68-4.27 1.77-1.09 1.09-1.77 2.6-1.77 4.27s.68 3.18 1.77 4.27 2.6 1.77 4.27 1.77c1.67 0 3.18-.68 4.27-1.77 1.09-1.09 1.77-2.6 1.77-4.27s-.67-3.18-1.77-4.27zm0-104.43a6.023 6.023 0 00-4.27-1.77c-1.67 0-3.18.68-4.27 1.77s-1.77 2.6-1.77 4.27c0 1.67.68 3.18 1.77 4.27a6.023 6.023 0 004.27 1.77c1.67 0 3.18-.68 4.27-1.77a6.023 6.023 0 001.77-4.27c0-1.67-.67-3.18-1.77-4.27zm45.42 78.29a6.023 6.023 0 00-4.27-1.77c-1.67 0-3.18.68-4.27 1.77a6.023 6.023 0 00-1.77 4.27c0 1.67.68 3.18 1.77 4.27a6.023 6.023 0 004.27 1.77c1.67 0 3.18-.68 4.27-1.77a6.023 6.023 0 001.77-4.27c0-1.67-.67-3.18-1.77-4.27zm-90.6 0c-1.09-1.09-2.6-1.77-4.27-1.77s-3.18.68-4.27 1.77a6.023 6.023 0 00-1.77 4.27c0 1.67.68 3.18 1.77 4.27s2.6 1.77 4.27 1.77 3.18-.68 4.27-1.77a6.023 6.023 0 001.77-4.27 6.065 6.065 0 00-1.77-4.27zm80.95-45.22c.08.08.14.18.2.28.06.1.1.2.14.31.23.34.49.66.77.95a6.023 6.023 0 004.27 1.77c1.67 0 3.18-.68 4.27-1.77a6.023 6.023 0 001.77-4.27c0-1.67-.68-3.18-1.77-4.27a6.023 6.023 0 00-4.27-1.77c-1.67 0-3.18.68-4.27 1.77a6.023 6.023 0 00-1.77 4.27c.01.99.25 1.91.66 2.73zM35.41 71.49a1.687 1.687 0 01.43.88l17.13 10.07V62.56L35.41 52.11v19.38zm37.56-19.11L55.96 62.57v19.89l17.01-10.05V52.38zM54.39 39.99l-16.6 9.93 16.69 10.05 16.21-9.84-16.3-10.14z" fill-rule="evenodd" clip-rule="evenodd"/></svg>
+                        </div>
+                        <h5 class="mt-4 mb-2">Blockchain</h5>
+                        <p>Building web3 decentralized applications (Tezos & Ethereum), Smart Contracts development with Smart Py, experience with onchain API's.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="service p-4 bg-base rounded-4 shadow-effect">
+                        <div class="iconbox rounded-4">
+                            <i class="fa-brands fa-git-alt"></i>
+                        </div>
+                        <h5 class="mt-4 mb-2">Tools</h5>
+                        <p>Practical knowledge of Git version control system, familiar with VScode, IntelliJ IDEA and the terminal. I also the have basics of Arduino and Wireshark.</p>
+                    </div>
+                </div>
+
+               
+            </div>
+
+        </div>
+    </div>
+    <!-- === Skills END === -->
+    
+    <!-- === Portfolio START ===-->
+        <div class="portfolio section" id="portfolio">
+                
+                <h2 class="section__title" translate="no">Portfolio</h2>
+                
+                <span class="section__subtitle">most recent work</span>
+                    <div class="portfolio__container container swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="portfolio__container grid swiper-slide">
+                                <img src="images/preview.png" alt="" class="portfolio__img">
+                                <div class="portfolio__data">
+                                    <h3 class="portfolio__title">NFT CopyTrader</h3>
+                                    <p class="portfolio__description">Digital assets investment decentralized application, you can copy biggest collectors trading strategies and invest seamlessly in Non-Fungible tokens (NFTs), furthermore you can Mint and Collect NFTs on top of Tezos blockchain.<br> <span class="cl">Tech stack:</span> UI in Vue.js, smart contracts in Python, GraphiQL and onchain API's for data.</p>
+                                    <div class="bottoni"> 
+                                        <a href="https://github.com/MarchettoFrancesco/NFT-CopyTrading" class="gtb"><span>Check out the <i class="fa-brands fa-github"></i> Repository </span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio__container grid swiper-slide">
+                                <img src="images/preview.png" alt="" class="portfolio__img">
+                                <div class="portfolio__data">
+                                    <h3 class="portfolio__title">Portfolio website</h3>
+                                    <p class="portfolio__description">This is my Personal website, i used Bootstrap, PostCss and JQuery; designed with mobile-first approach and WCAG rules.</p>
+                                    <div class="bottoni"> 
+                                    <a href="https://github.com/MarchettoFrancesco/NFT-CopyTrading" class="gtb">Check out the <i class="fa-brands fa-github"></i> Repository </a>
+                                </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        
+                        
+                            <div class = "swiper-button-next">
+                                <i class="fa-solid fa-angle-right swiper-portfolio-icon"></i>
+                            </div>
+                            <div class = "swiper-button-prev"> 
+                                <i class="fa-solid fa-angle-left swiper-portfolio-icon"></i>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                    
+                </div>
+        </div>
+    <!-- === Contact START === -->
+        <div id="contact">
+            <div class="container">
+                <div class="row">
+                    <h2 class="section__title">Contact Me</h2>
+                    <div class="contact-left">
+                        <p><i class="fas fa-paper-plane"></i>tobifsgl@gmail.com</p>
+                         <div class="social-icons">
+                            
+                            <a href="https://www.linkedin.com/in/francesco-marchetto/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://github.com/MarchettoFrancesco"><i class="fa-brands fa-github"></i></a>
+                            <a href="https://twitter.com/IsItFrancesco"><i class="fa-brands fa-twitter"></i></a>
+                            
+                         </div>
+                         <!-- <a href="" download class="btn btn2">Download CV</a> -->
+                    </div>
+                    <div class="contact-right">
+                        <form name="submit-to-google-sheet">
+                             <input type="text" name="Name" placeholder="Your Name" required>
+                             <input type="email" name="Email" placeholder="Your Email" required>
+                             <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                             <button type="submit" class="btn btn2">Submit</button>
+                        </form>
+                        <span id="msg"></span>
+                   </div>
+                    <div class="contact-right"></div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright section">
+            <p>© Francesco. All copyrights are reserved</p>
+        </div>
+    <!-- === Loader === -->
+        <div class="loader-wrapper">
+            <div class="loader">
+               <div class="ball"></div>
+               <div class="ball"></div>
+               <div class="ball"></div>
+            </div>
+        </div>
+
+    <!-- === Scripts === -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>   
+
+    <!--Fast scripts-->
+    <script>
+
+    // === LOADER ==== //
+        $(window).on("load", function(){
+            setTimeout(function(){
+            $(".loader-wrapper").fadeOut("slow");
+            }, 1000);
+        });
+    // === TYPING EFFECT ==== //
+        var typingEffect = new Typed(".typing-text",{
+            strings : ["FRANCESCO MARCHETTO","A SOFTWARE ENGINEER", "A BLOCKCHAIN ENTHUSIAST"],
+            loop : true,
+            typeSpeed: 80,
+            backSpeed: 30,
+            backDelay: 1000
+        })
+    </script>       
+</body>
+</html>
