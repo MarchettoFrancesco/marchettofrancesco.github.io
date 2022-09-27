@@ -129,7 +129,7 @@ a{
 .banner-image{
     /* background-color: #e7e7e7;  */
     background-image: url(../images/mainbg.svg);
-
+    background-size: cover;
 }
 .ondab{
     position: absolute;
