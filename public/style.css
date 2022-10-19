@@ -235,7 +235,7 @@ nav ul li a{
     05. About
 ====================================== */
 #about{
-    padding: 90px 0 50px 0;
+    padding: 50px 0 50px 0;
 }
 .row{
     display: flex;
@@ -279,8 +279,8 @@ nav ul li a{
     06. Portfolio
 ====================================== */
 .portfolio{
-    margin: 0 0 50px 0;
-    padding: 65px 0 50px 0;
+    margin: 50 0 50px 0;
+    padding: 20px 0 50px 0;
     border-bottom: 1px solid #404040;
     border-top: 1px solid #404040;
 }
@@ -320,7 +320,7 @@ nav ul li a{
     width: 300px;
     border-radius: .5rem;
     justify-self:center ;
-    height: 266px;
+    
 }
 /* ---- */
 .bottoni{
