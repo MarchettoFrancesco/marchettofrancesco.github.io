@@ -36,11 +36,11 @@
 .theme-toggle{--size: 2rem;--icon-fill: hsl(210, 10%, 70%);--icon-fill-hover: hsl(53, 97%, 55%);background:none;border:none;padding:0;width:var(--size);height:var(--size);aspect-ratio:1;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent;outline-offset:5px}
 .theme-toggle>svg{width:100%;height:100%;stroke-linecap:round}
 [data-theme=dark] .theme-toggle{--icon-fill: hsl(210, 10%, 70%);--icon-fill-hover: #009DFF }
-[data-theme=dark] body{color: white !important;background-color: rgb(40, 40, 43);}
+[data-theme=dark] body{color: white !important;background-color: #252525;}
 [data-theme=dark] .nav-link{color: white !important;}
 [data-theme=dark] .navbar-toggler{color: white !important;}
 [data-theme=dark] nav{border-bottom: 1px solid #3f3e3e;}
-[data-theme=dark] .navbar.main-menu{background-color: #252525;}
+[data-theme=dark] .navbar.main-menu{background-color: #222222;}
 [data-theme=dark] .content h1{color: white;}
 [data-theme=light] .navbar.main-menu{background-color: #e7e7e7 ;}
 @media (hover: none){.theme-toggle{--size: 48px }}
@@ -63,7 +63,7 @@ body{min-height:100%;font-family:system-ui, -apple-system, Segoe UI, Roboto, Ubu
     background-color: rgb(245, 245, 245);;
    
 }
-[data-theme=dark] .section{background-color: rgb(40, 40, 43); height: auto;width: 100%;}
+[data-theme=dark] .section{background-color: #222222; height: auto;width: 100%;}
 *{
     padding: 0;
     margin: 0;

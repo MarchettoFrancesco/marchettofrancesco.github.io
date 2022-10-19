@@ -1,17 +1,207 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="1016" height="830" preserveAspectRatio="xMidYMid" viewBox="0 0 1016 830">
-<g transform="translate(508,415) scale(1,1) translate(-508,-415)"><style type="text/css">
-  @keyframes ld-speed-dash {
-    0% { transform: translate(0,-1525.2883517021803px); }
-    100% { transform: translate(0,1525.2883517021803px); }
-  }
-  .ld.ld-speed-dash {
-    animation: ld-speed-dash 33.333333333333336s linear infinite;
-  }
-</style>
-  <g transform="translate(508,415)">
-    <g style="transform:rotate(45deg)">
-      <line x1="-185.34528066182455" x2="-185.34528066182455" y1="0" y2="-134.7556717131999" stroke="#c69dea" stroke-width="2.8374694194394112" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -7.815734352251617s;animation-duration:33.333333333333336s"></line><line x1="2.622639883835662" x2="2.622639883835662" y1="0" y2="-139.77585443298713" stroke="#c69dea" stroke-width="4.456848429954582" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -0.9414657540919968s;animation-duration:33.333333333333336s"></line><line x1="-383.03466278199005" x2="-383.03466278199005" y1="0" y2="-136.49953575540366" stroke="#6bbef1" stroke-width="0.697760139943443" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -17.898055478831797s;animation-duration:16.666666666666668s"></line><line x1="447.23046624966946" x2="447.23046624966946" y1="0" y2="-153.31917603403653" stroke="#6bbef1" stroke-width="2.7315091348886487" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -19.367895617287548s;animation-duration:33.333333333333336s"></line><line x1="-308.86032133082387" x2="-308.86032133082387" y1="0" y2="-132.84965582067588" stroke="#6bbef1" stroke-width="0.6348093842057123" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -22.181686359953723s;animation-duration:16.666666666666668s"></line><line x1="479.9330551954697" x2="479.9330551954697" y1="0" y2="-150.82174745865422" stroke="#c69dea" stroke-width="0.6586595244005988" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -26.5987316250186s;animation-duration:33.333333333333336s"></line><line x1="-426.7170354497119" x2="-426.7170354497119" y1="0" y2="-186.87725551936944" stroke="#6bbef1" stroke-width="4.7226615022017215" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -18.954366609568005s;animation-duration:33.333333333333336s"></line><line x1="-310.32554493476755" x2="-310.32554493476755" y1="0" y2="-81.92898337608815" stroke="#c69dea" stroke-width="1.3148303740879386" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -15.849090357675582s;animation-duration:33.333333333333336s"></line><line x1="140.23095305943212" x2="140.23095305943212" y1="0" y2="-127.21859535088001" stroke="#6bbef1" stroke-width="4.807328121345615" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -13.280703311884846s;animation-duration:33.333333333333336s"></line><line x1="-214.7192850176481" x2="-214.7192850176481" y1="0" y2="-155.84151412344522" stroke="#6bbef1" stroke-width="4.312117719709118" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -21.784284833575803s;animation-duration:16.666666666666668s"></line><line x1="-307.2957841381794" x2="-307.2957841381794" y1="0" y2="-94.64169570562443" stroke="#6bbef1" stroke-width="4.576655552564968" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -25.140251835834075s;animation-duration:16.666666666666668s"></line><line x1="271.8597130548391" x2="271.8597130548391" y1="0" y2="-119.39265806347916" stroke="#c69dea" stroke-width="4.810043761698984" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -28.21662140057252s;animation-duration:16.666666666666668s"></line><line x1="-78.40790520058542" x2="-78.40790520058542" y1="0" y2="-143.673454205523" stroke="#c69dea" stroke-width="1.4145485652455847" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -31.508079707314064s;animation-duration:33.333333333333336s"></line><line x1="258.74172409795216" x2="258.74172409795216" y1="0" y2="-111.3831054979504" stroke="#c69dea" stroke-width="3.5030085752847686" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -25.70092891672467s;animation-duration:33.333333333333336s"></line><line x1="86.7382657690175" x2="86.7382657690175" y1="0" y2="-211.9606399514487" stroke="#c69dea" stroke-width="1.3570166682466178" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -15.783101317137234s;animation-duration:33.333333333333336s"></line><line x1="-58.80120391342018" x2="-58.80120391342018" y1="0" y2="-122.97612120592774" stroke="#c69dea" stroke-width="0.5904662777246195" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -5.749027068556001s;animation-duration:33.333333333333336s"></line><line x1="-90.19324706242968" x2="-90.19324706242968" y1="0" y2="-196.80930897760803" stroke="#6bbef1" stroke-width="1.1313931378552855" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.956945079304397s;animation-duration:16.666666666666668s"></line><line x1="-297.8293492437386" x2="-297.8293492437386" y1="0" y2="-212.25001857762257" stroke="#c69dea" stroke-width="2.453538606142457" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -6.82155374318055s;animation-duration:16.666666666666668s"></line><line x1="-111.09266458041324" x2="-111.09266458041324" y1="0" y2="-157.51187666712286" stroke="#6bbef1" stroke-width="4.451117007484409" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -23.0579012943263s;animation-duration:16.666666666666668s"></line><line x1="-418.5791351394215" x2="-418.5791351394215" y1="0" y2="-188.42478726960564" stroke="#6bbef1" stroke-width="4.902550120824552" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -12.848410120476322s;animation-duration:33.333333333333336s"></line><line x1="37.44205974526762" x2="37.44205974526762" y1="0" y2="-138.09299914241956" stroke="#6bbef1" stroke-width="0.26163221711042794" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -13.69444872919458s;animation-duration:33.333333333333336s"></line><line x1="-72.26059946738528" x2="-72.26059946738528" y1="0" y2="-185.74426361514338" stroke="#c69dea" stroke-width="4.91542415690925" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -2.1990734019516753s;animation-duration:16.666666666666668s"></line><line x1="-144.76682974712048" x2="-144.76682974712048" y1="0" y2="-124.28072297324276" stroke="#c69dea" stroke-width="1.4303681088897446" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -1.7068161757553733s;animation-duration:16.666666666666668s"></line><line x1="19.19609484939388" x2="19.19609484939388" y1="0" y2="-130.42387695504806" stroke="#c69dea" stroke-width="3.5254640993115594" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -31.16143199030417s;animation-duration:16.666666666666668s"></line><line x1="219.04337287112142" x2="219.04337287112142" y1="0" y2="-172.89104025509025" stroke="#6bbef1" stroke-width="2.8185713777382637" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -32.19171693317895s;animation-duration:16.666666666666668s"></line><line x1="-273.70884439160693" x2="-273.70884439160693" y1="0" y2="-204.57639885457243" stroke="#6bbef1" stroke-width="2.8932180211265357" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -6.001883443182954s;animation-duration:16.666666666666668s"></line><line x1="216.06277480838295" x2="216.06277480838295" y1="0" y2="-205.48760163309825" stroke="#c69dea" stroke-width="0.6948682087174352" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -11.316804443209394s;animation-duration:16.666666666666668s"></line><line x1="423.3272837008541" x2="423.3272837008541" y1="0" y2="-203.7911049297724" stroke="#6bbef1" stroke-width="2.757038791736084" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -13.043725492201512s;animation-duration:16.666666666666668s"></line><line x1="111.98425664310444" x2="111.98425664310444" y1="0" y2="-166.34323957166333" stroke="#6bbef1" stroke-width="3.4261366779717504" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -8.231311539424285s;animation-duration:16.666666666666668s"></line><line x1="129.6149515698826" x2="129.6149515698826" y1="0" y2="-206.52458449688544" stroke="#c69dea" stroke-width="3.978626503601043" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -11.541269766072045s;animation-duration:33.333333333333336s"></line><line x1="174.73854946183303" x2="174.73854946183303" y1="0" y2="-182.77221300958269" stroke="#6bbef1" stroke-width="1.922230131332282" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -1.3640428475336124s;animation-duration:16.666666666666668s"></line><line x1="-301.4140759202927" x2="-301.4140759202927" y1="0" y2="-61.13304998662452" stroke="#6bbef1" stroke-width="2.918301599976625" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -1.182838524165734s;animation-duration:16.666666666666668s"></line><line x1="-56.207011049743315" x2="-56.207011049743315" y1="0" y2="-152.0402315312595" stroke="#6bbef1" stroke-width="3.9212042883170364" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -8.270058916181089s;animation-duration:16.666666666666668s"></line><line x1="295.5655612545707" x2="295.5655612545707" y1="0" y2="-161.41849027815772" stroke="#6bbef1" stroke-width="3.3177857359281813" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -18.621498943261255s;animation-duration:33.333333333333336s"></line><line x1="172.46927104031607" x2="172.46927104031607" y1="0" y2="-89.32632951638479" stroke="#c69dea" stroke-width="1.9731193078486975" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -11.95709102665461s;animation-duration:33.333333333333336s"></line><line x1="5.348894836542076" x2="5.348894836542076" y1="0" y2="-85.90257827792695" stroke="#6bbef1" stroke-width="0.39155765597221337" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -5.43308626562351s;animation-duration:33.333333333333336s"></line><line x1="-313.2137697814696" x2="-313.2137697814696" y1="0" y2="-199.35797256503454" stroke="#c69dea" stroke-width="3.428879657020274" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -30.333610731966655s;animation-duration:16.666666666666668s"></line><line x1="435.7185188827865" x2="435.7185188827865" y1="0" y2="-73.24659898509071" stroke="#6bbef1" stroke-width="2.0624217785638033" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -7.612677145062893s;animation-duration:33.333333333333336s"></line><line x1="-484.95612172259086" x2="-484.95612172259086" y1="0" y2="-78.93088485788954" stroke="#6bbef1" stroke-width="2.553835867731448" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -22.732055079883075s;animation-duration:16.666666666666668s"></line><line x1="59.19131430225676" x2="59.19131430225676" y1="0" y2="-154.03376008998077" stroke="#c69dea" stroke-width="4.657477728945265" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -15.077991815490314s;animation-duration:33.333333333333336s"></line><line x1="-388.99045741614356" x2="-388.99045741614356" y1="0" y2="-95.32259526548054" stroke="#c69dea" stroke-width="2.562657388490013" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -30.812328949223975s;animation-duration:33.333333333333336s"></line><line x1="451.38898436517064" x2="451.38898436517064" y1="0" y2="-138.371680005021" stroke="#c69dea" stroke-width="4.40761540578105" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -15.91364390136693s;animation-duration:33.333333333333336s"></line><line x1="-328.78483367143815" x2="-328.78483367143815" y1="0" y2="-122.98410171471083" stroke="#c69dea" stroke-width="1.9482142634697797" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -31.50129568380123s;animation-duration:16.666666666666668s"></line><line x1="-398.59563127421626" x2="-398.59563127421626" y1="0" y2="-141.31892949427254" stroke="#c69dea" stroke-width="1.8892431208911586" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -16.38631183416793s;animation-duration:16.666666666666668s"></line><line x1="-147.04391079085366" x2="-147.04391079085366" y1="0" y2="-95.12618250086342" stroke="#c69dea" stroke-width="3.723202862818132" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -12.013469380654433s;animation-duration:16.666666666666668s"></line><line x1="495.5904817530933" x2="495.5904817530933" y1="0" y2="-122.79324224869947" stroke="#6bbef1" stroke-width="1.008226071982522" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -14.263200601370059s;animation-duration:33.333333333333336s"></line><line x1="-226.1403351961938" x2="-226.1403351961938" y1="0" y2="-181.91900971796576" stroke="#6bbef1" stroke-width="1.439226729808064" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -21.616403314073988s;animation-duration:16.666666666666668s"></line><line x1="-229.35102113414226" x2="-229.35102113414226" y1="0" y2="-106.2896734676205" stroke="#c69dea" stroke-width="4.626645983547528" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -23.40373715985208s;animation-duration:16.666666666666668s"></line><line x1="109.13174338480431" x2="109.13174338480431" y1="0" y2="-131.94177773706457" stroke="#6bbef1" stroke-width="0.15699082122102914" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -11.981387483051243s;animation-duration:33.333333333333336s"></line><line x1="-305.58486517794" x2="-305.58486517794" y1="0" y2="-163.41038181359397" stroke="#6bbef1" stroke-width="2.3625724947323534" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -12.974567263166888s;animation-duration:33.333333333333336s"></line><line x1="-63.30448927666956" x2="-63.30448927666956" y1="0" y2="-181.25233382821085" stroke="#c69dea" stroke-width="4.201165095488474" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.8367971889620307s;animation-duration:16.666666666666668s"></line><line x1="249.03531326441816" x2="249.03531326441816" y1="0" y2="-197.76034641813283" stroke="#6bbef1" stroke-width="3.818651197866596" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.9895313811390296s;animation-duration:16.666666666666668s"></line><line x1="-43.25043264798553" x2="-43.25043264798553" y1="0" y2="-167.7622707048858" stroke="#6bbef1" stroke-width="4.03056802258106" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -32.341919718505835s;animation-duration:16.666666666666668s"></line><line x1="-416.3607740044028" x2="-416.3607740044028" y1="0" y2="-198.8242103802271" stroke="#c69dea" stroke-width="4.285508496480538" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -20.493787287128317s;animation-duration:33.333333333333336s"></line><line x1="222.3772440398646" x2="222.3772440398646" y1="0" y2="-195.48652149958482" stroke="#6bbef1" stroke-width="0.08689425306350973" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -26.94537265263753s;animation-duration:33.333333333333336s"></line><line x1="-292.98579781587114" x2="-292.98579781587114" y1="0" y2="-76.2260628856923" stroke="#6bbef1" stroke-width="1.4465781431595182" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -26.064802040604583s;animation-duration:16.666666666666668s"></line><line x1="411.4624047834729" x2="411.4624047834729" y1="0" y2="-197.03876369144717" stroke="#c69dea" stroke-width="0.13232767703557524" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -26.50505524708001s;animation-duration:33.333333333333336s"></line><line x1="399.8691569420123" x2="399.8691569420123" y1="0" y2="-91.08104335227057" stroke="#c69dea" stroke-width="3.433244511412842" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -28.26176107428149s;animation-duration:16.666666666666668s"></line><line x1="-110.42618985783304" x2="-110.42618985783304" y1="0" y2="-146.5436392598369" stroke="#c69dea" stroke-width="0.10059769913700056" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -32.75125233586484s;animation-duration:16.666666666666668s"></line><line x1="-223.75444442692725" x2="-223.75444442692725" y1="0" y2="-148.36649600346493" stroke="#6bbef1" stroke-width="3.830027620619841" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -17.228932468628614s;animation-duration:16.666666666666668s"></line><line x1="-467.2386713036288" x2="-467.2386713036288" y1="0" y2="-66.70081256367253" stroke="#c69dea" stroke-width="1.2675149809037267" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -28.824468120968742s;animation-duration:33.333333333333336s"></line><line x1="-411.75309359087254" x2="-411.75309359087254" y1="0" y2="-120.36856853348934" stroke="#c69dea" stroke-width="0.4055365530824617" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -5.012330821451546s;animation-duration:33.333333333333336s"></line><line x1="397.0006814905562" x2="397.0006814905562" y1="0" y2="-197.94343462985222" stroke="#c69dea" stroke-width="2.749963735388464" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -0.4103329343802124s;animation-duration:33.333333333333336s"></line><line x1="-335.04324541112544" x2="-335.04324541112544" y1="0" y2="-209.8263318640385" stroke="#6bbef1" stroke-width="0.8138799485441484" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -33.09268335267577s;animation-duration:33.333333333333336s"></line><line x1="506.6202686864546" x2="506.6202686864546" y1="0" y2="-114.94882392874567" stroke="#c69dea" stroke-width="2.039703609125466" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -16.539618932977625s;animation-duration:33.333333333333336s"></line><line x1="-35.3963958434241" x2="-35.3963958434241" y1="0" y2="-79.62282431121275" stroke="#c69dea" stroke-width="1.5565396286239652" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.849447274832681s;animation-duration:33.333333333333336s"></line><line x1="41.77870584746361" x2="41.77870584746361" y1="0" y2="-105.54073828135309" stroke="#c69dea" stroke-width="0.8198672011922847" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -4.830885026837232s;animation-duration:16.666666666666668s"></line><line x1="-398.93285871148316" x2="-398.93285871148316" y1="0" y2="-127.93813403405534" stroke="#c69dea" stroke-width="2.895978688602824" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -19.03487104345046s;animation-duration:16.666666666666668s"></line><line x1="361.35002930363106" x2="361.35002930363106" y1="0" y2="-122.97361529264771" stroke="#c69dea" stroke-width="1.9152288538323803" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -0.28577840653361s;animation-duration:16.666666666666668s"></line><line x1="-367.6392255299582" x2="-367.6392255299582" y1="0" y2="-120.3169402650123" stroke="#6bbef1" stroke-width="4.379764573737201" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -29.825725235538428s;animation-duration:16.666666666666668s"></line><line x1="-403.240667293438" x2="-403.240667293438" y1="0" y2="-148.89209926921592" stroke="#c69dea" stroke-width="4.160616614010012" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -22.01583892277391s;animation-duration:33.333333333333336s"></line><line x1="470.09853054988173" x2="470.09853054988173" y1="0" y2="-133.78700465584586" stroke="#6bbef1" stroke-width="1.704429898843256" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -12.114603265776802s;animation-duration:16.666666666666668s"></line><line x1="-315.0972796492707" x2="-315.0972796492707" y1="0" y2="-77.81105148674733" stroke="#6bbef1" stroke-width="4.392501591227469" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.4469458767769563s;animation-duration:16.666666666666668s"></line><line x1="-315.66446041122475" x2="-315.66446041122475" y1="0" y2="-78.4713773118884" stroke="#c69dea" stroke-width="1.5802428078735942" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -29.254296465198223s;animation-duration:16.666666666666668s"></line><line x1="-214.3271595967544" x2="-214.3271595967544" y1="0" y2="-148.23947223825377" stroke="#6bbef1" stroke-width="4.862210237359957" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -7.761305424053925s;animation-duration:33.333333333333336s"></line><line x1="-399.23923670829544" x2="-399.23923670829544" y1="0" y2="-133.12402804663841" stroke="#c69dea" stroke-width="1.693444375227493" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -2.5584156600443184s;animation-duration:33.333333333333336s"></line><line x1="-40.69262897685169" x2="-40.69262897685169" y1="0" y2="-178.20428340776738" stroke="#6bbef1" stroke-width="1.4775162816973442" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -11.144303933679993s;animation-duration:16.666666666666668s"></line><line x1="449.58749671975363" x2="449.58749671975363" y1="0" y2="-115.11093330137527" stroke="#6bbef1" stroke-width="4.412782365262381" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -32.70848214923477s;animation-duration:16.666666666666668s"></line><line x1="205.6189010380042" x2="205.6189010380042" y1="0" y2="-163.5489606576989" stroke="#6bbef1" stroke-width="4.639021125843376" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -1.1857600011796403s;animation-duration:33.333333333333336s"></line><line x1="493.31538781856887" x2="493.31538781856887" y1="0" y2="-120.18504624604789" stroke="#c69dea" stroke-width="0.9794948554802496" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -32.31771360992551s;animation-duration:16.666666666666668s"></line><line x1="158.21030429704837" x2="158.21030429704837" y1="0" y2="-162.6670981436738" stroke="#c69dea" stroke-width="4.24770404699358" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -6.813394559180982s;animation-duration:16.666666666666668s"></line><line x1="38.37290504613745" x2="38.37290504613745" y1="0" y2="-155.53029432763395" stroke="#6bbef1" stroke-width="1.4013745279277945" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -13.176917194167663s;animation-duration:33.333333333333336s"></line><line x1="285.27053238579145" x2="285.27053238579145" y1="0" y2="-108.58007467675515" stroke="#6bbef1" stroke-width="2.23875640545332" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -13.618679714583282s;animation-duration:33.333333333333336s"></line><line x1="-466.9471918151558" x2="-466.9471918151558" y1="0" y2="-111.6786485275405" stroke="#c69dea" stroke-width="2.869787098649997" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -22.91509460642358s;animation-duration:16.666666666666668s"></line><line x1="467.45557550224646" x2="467.45557550224646" y1="0" y2="-71.71909233713099" stroke="#6bbef1" stroke-width="2.976664006107569" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -26.748064116905493s;animation-duration:16.666666666666668s"></line><line x1="35.946436164635855" x2="35.946436164635855" y1="0" y2="-125.12855098446069" stroke="#6bbef1" stroke-width="0.4839879134970537" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -18.149463680993343s;animation-duration:33.333333333333336s"></line><line x1="-239.0995106938837" x2="-239.0995106938837" y1="0" y2="-118.09755941551424" stroke="#c69dea" stroke-width="3.5703317331219884" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -21.6913233920952s;animation-duration:16.666666666666668s"></line><line x1="-174.47100697202586" x2="-174.47100697202586" y1="0" y2="-116.85250975923387" stroke="#6bbef1" stroke-width="0.691288212674952" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -0.7706115913636976s;animation-duration:33.333333333333336s"></line><line x1="-135.29201258062642" x2="-135.29201258062642" y1="0" y2="-189.22926130315906" stroke="#c69dea" stroke-width="2.472830968760922" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -6.9836911653272145s;animation-duration:33.333333333333336s"></line><line x1="-74.34353051840476" x2="-74.34353051840476" y1="0" y2="-158.90067879541544" stroke="#6bbef1" stroke-width="0.33306172303561143" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -5.7402431995714265s;animation-duration:33.333333333333336s"></line><line x1="-417.34144621027326" x2="-417.34144621027326" y1="0" y2="-116.9986498648551" stroke="#6bbef1" stroke-width="4.65068498372216" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -16.35311916045496s;animation-duration:16.666666666666668s"></line><line x1="-302.4379182965394" x2="-302.4379182965394" y1="0" y2="-80.21210298193938" stroke="#c69dea" stroke-width="0.47312739221586075" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -31.55885134242326s;animation-duration:33.333333333333336s"></line><line x1="-279.61998066331097" x2="-279.61998066331097" y1="0" y2="-115.98092027259922" stroke="#c69dea" stroke-width="4.603680107561006" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -22.095569128029545s;animation-duration:33.333333333333336s"></line><line x1="19.54325986704562" x2="19.54325986704562" y1="0" y2="-69.16938588283492" stroke="#6bbef1" stroke-width="0.07775041010567807" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -2.2437651638844556s;animation-duration:33.333333333333336s"></line><line x1="-114.97329165942902" x2="-114.97329165942902" y1="0" y2="-104.18539364495517" stroke="#c69dea" stroke-width="4.084485757011533" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -18.921007551884937s;animation-duration:16.666666666666668s"></line><line x1="-461.7335555763284" x2="-461.7335555763284" y1="0" y2="-64.89250989570364" stroke="#6bbef1" stroke-width="2.488636640703251" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -33.090374645979814s;animation-duration:33.333333333333336s"></line><line x1="-133.79784946461075" x2="-133.79784946461075" y1="0" y2="-88.48219639876584" stroke="#6bbef1" stroke-width="4.279207390305339" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -27.968251523064495s;animation-duration:33.333333333333336s"></line><line x1="-270.11480595800924" x2="-270.11480595800924" y1="0" y2="-154.36252746736915" stroke="#c69dea" stroke-width="3.7175298325312554" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -18.239284169296553s;animation-duration:16.666666666666668s"></line><line x1="-506.27553130592395" x2="-506.27553130592395" y1="0" y2="-78.45242063786833" stroke="#c69dea" stroke-width="3.4390310503028143" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -3.596280646078413s;animation-duration:33.333333333333336s"></line><line x1="337.645137599062" x2="337.645137599062" y1="0" y2="-132.561421109952" stroke="#c69dea" stroke-width="4.001394737372799" stroke-linecap="round" class="ld ld-speed-dash" style="animation-delay: -25.778624141929434s;animation-duration:16.666666666666668s"></line>
-    </g>
-  </g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="1568" height="833" preserveAspectRatio="xMidYMid" viewBox="0 0 1568 833">
+<g transform="translate(784,416.5) scale(1,1) translate(-784,-416.5)"><defs>
+  <path id="path-uitjg4avja-1" d="M-35 -35L35 -35L35 35L-35 35Z" fill="none" stroke="inherit" stroke-width="5.7894736842105265" transform="scale(0.38)"></path>
+  <path id="path-uitjg4avja-2" d="M0 -37A37 37 0 0 1 0 37A37 37 0 0 1 0 -37" fill="none" stroke="inherit" stroke-width="5.7894736842105265" transform="scale(0.38)"></path>
+  <path id="path-uitjg4avja-3" d="M0 -34.641L40 34.641L-40 34.641Z" fill="none" stroke="inherit" stroke-width="5.7894736842105265" transform="scale(0.38)"></path>
+</defs><path id="path0" d="M 90.72014987790223 800.6087097083745
+c 0 56.28041528252124 -13.770739909553068 16.165651198170995 -29.936391107724063 16.165651198170995
+S 30.847367662454097 856.8891249908958 30.847367662454097 800.6087097083745
+s 13.770739909553068 -16.165651198170995 29.936391107724063 -16.165651198170995
+S 90.72014987790223 744.3282944258532 90.72014987790223 800.6087097083745
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-3.3883952559709334s" dur="9.680065965867792s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path0"></mpath>
+  </animateMotion>
+</use><path id="path1" d="M 162.61184645634444 614.2961849293637
+c 0 39.69811586706038 -9.713368775982858 11.40265030224075 -21.11601907822361 11.40265030224075
+S 120.3798082998972 653.9943007964241 120.3798082998972 614.2961849293637
+s 9.713368775982858 -11.40265030224075 21.11601907822361 -11.40265030224075
+S 162.61184645634444 574.5980690623032 162.61184645634444 614.2961849293637
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-2" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.525807433876083s" dur="14.433471504411452s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path1"></mpath>
+  </animateMotion>
+</use><path id="path2" d="M 249.74472276301697 49.87587417304825
+c 0 28.260558183984752 -6.914817427996268 8.117394371995621 -15.032211799991888 8.117394371995621
+S 219.68029916303317 78.136432357033 219.68029916303317 49.87587417304825
+s 6.914817427996268 -8.117394371995621 15.032211799991888 -8.117394371995621
+S 249.74472276301697 21.6153159890635 249.74472276301697 49.87587417304825
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-2" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.210967752294642s" dur="10.70198373219661s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path2"></mpath>
+  </animateMotion>
+</use><path id="path3" d="M 283.6356574001005 250.00871112881723
+c 0 42.19023124818798 -10.32314168838642 12.118470677671016 -22.441612366057434 12.118470677671016
+S 238.75243266798566 292.1989423770052 238.75243266798566 250.00871112881723
+s 10.32314168838642 -12.118470677671016 22.441612366057434 -12.118470677671016
+S 283.6356574001005 207.81847988062924 283.6356574001005 250.00871112881723
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.3144028310928935s" dur="14.721092267879s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path3"></mpath>
+  </animateMotion>
+</use><path id="path4" d="M 385.83249381402624 595.6403501758695
+c 0 20.048806938983677 -4.905559144644942 5.758699865452759 -10.664259010097702 5.758699865452759
+S 364.5039757938309 615.6891571148532 364.5039757938309 595.6403501758695
+s 4.905559144644942 -5.758699865452759 10.664259010097702 -5.758699865452759
+S 385.83249381402624 575.5915432368857 385.83249381402624 595.6403501758695
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-2" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-0.9420001057087944s" dur="10.459690336274425s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path4"></mpath>
+  </animateMotion>
+</use><path id="path5" d="M 495.19407832706077 456.8276234064777
+c 0 42.810558698647455 -10.4749239369031 12.296649838973204 -22.771573775876305 12.296649838973204
+S 449.6509307753082 499.63818210512517 449.6509307753082 456.8276234064777
+s 10.4749239369031 -12.296649838973204 22.771573775876305 -12.296649838973204
+S 495.19407832706077 414.01706470783023 495.19407832706077 456.8276234064777
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.2302023267335906s" dur="13.660913274532756s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path5"></mpath>
+  </animateMotion>
+</use><path id="path6" d="M 575.3132140417998 517.4388662604628
+c 0 43.54452646303666 -10.654511794147266 12.507470367042446 -23.161982161189712 12.507470367042446
+S 528.9892497194204 560.9833927234994 528.9892497194204 517.4388662604628
+s 10.654511794147266 -12.507470367042446 23.161982161189712 -12.507470367042446
+S 575.3132140417998 473.8943397974261 575.3132140417998 517.4388662604628
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.3579224975541972s" dur="9.223589378756706s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path6"></mpath>
+  </animateMotion>
+</use><path id="path7" d="M 661.9934511159796 287.2506356736337
+c 0 63.358990659212246 -15.502731757041293 18.198859019135433 -33.70159077617672 18.198859019135433
+S 594.5902695636261 350.60962633284595 594.5902695636261 287.2506356736337
+s 15.502731757041293 -18.198859019135433 33.70159077617672 -18.198859019135433
+S 661.9934511159796 223.89164501442147 661.9934511159796 287.2506356736337
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.6690831585731334s" dur="9.908139684732168s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path7"></mpath>
+  </animateMotion>
+</use><path id="path8" d="M 666.8150430753556 672.6622712261682
+c 0 23.138644882660493 -5.661583322353098 6.646206508849291 -12.307789831202388 6.646206508849291
+S 642.1994634129508 695.8009161088287 642.1994634129508 672.6622712261682
+s 5.661583322353098 -6.646206508849291 12.307789831202388 -6.646206508849291
+S 666.8150430753556 649.5236263435077 666.8150430753556 672.6622712261682
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.7378891717953722s" dur="9.182311845818612s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path8"></mpath>
+  </animateMotion>
+</use><path id="path9" d="M 762.6678330575347 271.9712122519114
+c 0 32.22440312862896 -7.88469438253687 9.255945579499807 -17.140639962036676 9.255945579499807
+S 728.3865531334615 304.1956153805404 728.3865531334615 271.9712122519114
+s 7.88469438253687 -9.255945579499807 17.140639962036676 -9.255945579499807
+S 762.6678330575347 239.74680912328247 762.6678330575347 271.9712122519114
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.0475083565407763s" dur="17.94606025706921s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path9"></mpath>
+  </animateMotion>
+</use><path id="path10" d="M 858.7649042979558 170.66125087581906
+c 0 23.301640718874175 -5.701465282277723 6.693024461804284 -12.394489744082007 6.693024461804284
+S 833.9759248097919 193.96289159469325 833.9759248097919 170.66125087581906
+s 5.701465282277723 -6.693024461804284 12.394489744082007 -6.693024461804284
+S 858.7649042979558 147.35961015694488 858.7649042979558 170.66125087581906
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-0.8773860474143723s" dur="13.832411073259594s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path10"></mpath>
+  </animateMotion>
+</use><path id="path11" d="M 882.5037067044582 110.17585209942087
+c 0 23.92053762515147 -5.852897504026424 6.870792722117976 -12.723690226144399 6.870792722117976
+S 857.0563262521694 134.09638972457233 857.0563262521694 110.17585209942087
+s 5.852897504026424 -6.870792722117976 12.723690226144399 -6.870792722117976
+S 882.5037067044582 86.2553144742694 882.5037067044582 110.17585209942087
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-2" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.2450118987149892s" dur="15.601749233989834s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path11"></mpath>
+  </animateMotion>
+</use><path id="path12" d="M 968.1815948323839 809.9817890339132
+c 0 21.959567039071818 -5.3730855521133165 6.307535213350415 -11.680620765463733 6.307535213350415
+S 944.8203533014565 831.941356072985 944.8203533014565 809.9817890339132
+s 5.3730855521133165 -6.307535213350415 11.680620765463733 -6.307535213350415
+S 968.1815948323839 788.0222219948414 968.1815948323839 809.9817890339132
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-0.3421864551333972s" dur="17.17876900930671s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path12"></mpath>
+  </animateMotion>
+</use><path id="path13" d="M 1111.3054188330755 573.6213491408022
+c 0 50.57527971627769 -12.374802483770072 14.52694204616487 -26.90174452993494 14.52694204616487
+S 1057.5019297732058 624.1966288570799 1057.5019297732058 573.6213491408022
+s 12.374802483770072 -14.52694204616487 26.90174452993494 -14.52694204616487
+S 1111.3054188330755 523.0460694245245 1111.3054188330755 573.6213491408022
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.8656971218395881s" dur="14.360522623596838s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path13"></mpath>
+  </animateMotion>
+</use><path id="path14" d="M 1125.837825949174 320.64198519149227
+c 0 45.10859622776988 -11.037209715305394 12.956724448401987 -23.993934163707383 12.956724448401987
+S 1077.8499576217594 365.7505814192622 1077.8499576217594 320.64198519149227
+s 11.037209715305394 -12.956724448401987 23.993934163707383 -12.956724448401987
+S 1125.837825949174 275.53338896372236 1125.837825949174 320.64198519149227
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-2" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.432006203261733s" dur="14.48093860305425s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path14"></mpath>
+  </animateMotion>
+</use><path id="path15" d="M 1187.8275584014789 763.2761600187246
+c 0 27.964570704365304 -6.842394959578744 8.032376691679396 -14.87477165125814 8.032376691679396
+S 1158.0780150989624 791.2407307230899 1158.0780150989624 763.2761600187246
+s 6.842394959578744 -8.032376691679396 14.87477165125814 -8.032376691679396
+S 1187.8275584014789 735.3115893143593 1187.8275584014789 763.2761600187246
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-4.400533057927196s" dur="14.566968232316984s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path15"></mpath>
+  </animateMotion>
+</use><path id="path16" d="M 1292.3530136866311 269.8658990649819
+c 0 52.74902532222082 -12.906676408628496 15.151315784042149 -28.057992192670646 15.151315784042149
+S 1236.23702930129 322.6149243872027 1236.23702930129 269.8658990649819
+s 12.906676408628496 -15.151315784042149 28.057992192670646 -15.151315784042149
+S 1292.3530136866311 217.11687374276107 1292.3530136866311 269.8658990649819
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.185353039475941s" dur="13.166041821624173s" keyPoints="1;0" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path16"></mpath>
+  </animateMotion>
+</use><path id="path17" d="M 1345.7421595639698 127.22022494864366
+c 0 58.918824156939436 -14.416308038400073 16.923492045078348 -31.339800083478423 16.923492045078348
+S 1283.062559397013 186.1390491055831 1283.062559397013 127.22022494864366
+s 14.416308038400073 -16.923492045078348 31.339800083478423 -16.923492045078348
+S 1345.7421595639698 68.30140079170422 1345.7421595639698 127.22022494864366
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-0.16465450676707669s" dur="10.317849530911873s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path17"></mpath>
+  </animateMotion>
+</use><path id="path18" d="M 1412.496999319713 453.0001878245475
+c 0 40.81615099009874 -9.986930561407137 11.72378805034751 -21.710718611754647 11.72378805034751
+S 1369.0755620962038 493.8163388146462 1369.0755620962038 453.0001878245475
+s 9.986930561407137 -11.72378805034751 21.710718611754647 -11.72378805034751
+S 1412.496999319713 412.18403683444876 1412.496999319713 453.0001878245475
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-1" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-1.6712267647765102s" dur="10.87257988407801s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path18"></mpath>
+  </animateMotion>
+</use><path id="path19" d="M 1489.7965943914633 174.2980923111332
+c 0 25.570120073744615 -6.25651874144815 7.344608957352176 -13.601127698800326 7.344608957352176
+S 1462.5943389938625 199.8682123848778 1462.5943389938625 174.2980923111332
+s 6.25651874144815 -7.344608957352176 13.601127698800326 -7.344608957352176
+S 1489.7965943914633 148.72797223738857 1489.7965943914633 174.2980923111332
+z" fill="none" stroke="none"></path>
+<use xlink:href="#path-uitjg4avja-3" x="0" y="0" stroke="#bbddff">
+  <animateMotion begin="-2.8983134675211537s" dur="17.164388681276222s" keyPoints="0;1" keyTimes="0;1" repeatCount="indefinite" calcMode="linear">
+    <mpath xlink:href="#path19"></mpath>
+  </animateMotion>
+</use></g>
 </svg>
