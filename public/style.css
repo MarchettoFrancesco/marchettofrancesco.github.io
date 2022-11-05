@@ -43,6 +43,9 @@
 [data-theme=dark] .navbar.main-menu{background-color: #222222;}
 [data-theme=dark] .content h1{color: white;}
 [data-theme=light] .navbar.main-menu{background-color: #e7e7e7 ;}
+[data-theme=dark] .scroll-down{border-color: #e7e7e7;}
+[data-theme=dark] .scroll-down::after{border-color: #e7e7e7 !important;}
+[data-theme=dark] .scroll-down::before{border-color: #e7e7e7 !important;}
 @media (hover: none){.theme-toggle{--size: 48px }}
 *{box-sizing:border-box;margin:0}
 html{height:100%;color-scheme:light}
@@ -125,7 +128,7 @@ a{
     02. Header
 ====================================== */
 .banner-image{
-    height: 90vh !important;
+    height: 100vh !important;
 }
 .banner-image{
     /* background-color: #e7e7e7;  */
@@ -188,6 +191,50 @@ a{
     max-width: 100%;
     max-height: 100%;
 }
+.scroll-down{
+    z-index: 1;
+    height: 50px;
+    width: 30px;
+    border: 2px solid #252525;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+} 
+.scroll-down::before, .scroll-down::after{
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  border: 2px solid #252525;
+  height: 10px;
+  width: 10px;
+  transform: translate(-50%, -100%) rotate(45deg);
+  border-top: transparent;
+  border-left: transparent;
+  animation: scroll-down 1s ease-in-out infinite;
+}
+ .scroll-down::after{
+  top: 30%;
+  animation-delay: .3s;
+ }
+@keyframes scroll-down{
+  0%{
+    opacity:0;
+  }
+  30%{
+    opacity: 1;
+  }
+  60%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+    top: 90%;
+  }
+}
+  
 /* ===================================
     03. nav
 ====================================== */
