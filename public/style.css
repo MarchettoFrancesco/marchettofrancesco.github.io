@@ -192,12 +192,16 @@ a{
     max-height: 100%;
 }
 .scroll-down{
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center; 
     z-index: 1;
     height: 50px;
     width: 30px;
-    border: 2px solid #252525;
+    border: 2px solid #a09d9d;
     position: absolute;
-    left: 50%;
     bottom: 20px;
     border-radius: 50px;
     cursor: pointer;
@@ -207,7 +211,7 @@ a{
   position: absolute;
   top: 20%;
   left: 50%;
-  border: 2px solid #252525;
+  border: 2px solid #a09d9d;
   height: 10px;
   width: 10px;
   transform: translate(-50%, -100%) rotate(45deg);
