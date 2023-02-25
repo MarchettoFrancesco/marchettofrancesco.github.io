@@ -291,7 +291,7 @@ nav ul li a{
     05. About
 ====================================== */
 #about{
-    padding: 90px 0 50px 0;
+    padding: 50px 0 50px 0;
 }
 .row{
     display: flex;
@@ -337,7 +337,6 @@ nav ul li a{
 .portfolio{
     margin: 0 0 50px 0;
     padding: 65px 0 50px 0;
-    
 }
 /* Testo*/
 .section__title{
@@ -375,7 +374,7 @@ nav ul li a{
     width: 300px;
     border-radius: .5rem;
     justify-self:center ;
-    height: 266px;
+    
 }
 /* ---- */
 .bottoni{

@@ -134,6 +134,7 @@ a{
 ====================================== */
 .banner-image{
     height: 100vh !important;
+
 }
 .banner-image{
     /* background-color: #e7e7e7;  */
@@ -337,7 +338,6 @@ nav ul li a{
 .portfolio{
     margin: 0 0 50px 0;
     padding: 65px 0 50px 0;
-    
 }
 /* Testo*/
 .section__title{
