@@ -1,0 +1,86 @@
+\documentclass[a4paper, 10pt]{article}
+\usepackage[left=0.75in,right=0.75in,top=0.5in,bottom=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+
+%\renewcommand{\dateseparator}{--}
+\titleformat{\section}[hang]{\large\bfseries}{\thesection}{1em}{}[\titlerule]
+% Configure fancy headers
+%\pagestyle{fancy}
+
+%\fancyhf{} % Clear all header/footer fields
+%\rhead{MarchettoFCV \quad \today \quad Page \thepage}
+
+\begin{document}
+
+\begin{center}
+\textbf{\LARGE Francesco Marchetto}\\[4pt]
+\href{mailto:francescomarchetto.work@gmail.com}{francescomarchetto.work@gmail.com} \\
+Villorba, TV, Italy  +39 3270482481
+\end{center}
+
+\section*{Education}
+\textbf{Università degli Studi di Udine \& University of Klagenfurt}, Udine, Italy \hfill Oct 2024 -- Jul 2026 \\
+\emph{Master of Science in Artificial Intelligence \& Cybersecurity} \\
+Relevant Courses: Computer Vision, Deep Learning, General Genetics. \\
+
+\textbf{University of Cambridge}, Cambridge, UK \hfill Jun 2025 \\
+\emph{Visiting Student: AI in Medicine and Healthcare} \\
+Attending lectures and lab visits on AI in medicine, Graph Neural Networks, and Federated Learning.
+
+\textbf{University of Gothenburg}, Gothenburg, Sweden \hfill Aug 2023 -- Jan 2024 \\
+\emph{Exchange Student in Software Engineering and Management} 
+
+\textbf{Università degli Studi di Udine}, Udine, Italy \hfill Sep 2021 -- Jul 2024 \\
+\emph{Bachelor of Science in Internet of Things, Machine Learning and Big Data} 
+
+\section*{Research Experience}
+
+\textbf{MITEL (Medical Informatics and Telemedicine) Lab} \hfill Oct 2024 -- Feb 2025 \\
+\textbf{Università degli Studi di Udine}, Udine, Italy \\
+\emph{Research Intern in Digital Pathology} 
+\begin{itemize}[noitemsep]
+\item Developing AI tools to detect mononuclear inflammatory cells in kidney biopsies for transplant rejection assessment.
+\item Supporting biomedical research by distinguishing immune cell types with deep learning techniques.
+\end{itemize}
+
+\textbf{AI Lab, Università degli Studi di Udine} \hfill Feb 2024 -- Oct 2024 \\
+\emph{Research Intern in Natural Language Processing (NLP)} 
+\begin{itemize}[noitemsep]
+\item Applied natural language processing techniques to analyze medical and social media datasets.
+\item Fine-tuned transformer-based models (LLAMA, Mistral, BERT's...) for medical text classification.
+\end{itemize}
+
+\section*{Achievements}
+\begin{itemize}[noitemsep]
+\item \textbf{2025 Enactus Italy National Champion:} 1st place in the national competition (Early Stage) presenting project \textit{Agrichange}, a low-tech, scalable solution using static magnetic fields to enhance seed germination without water or energy, designed for climate-vulnerable areas.
+\item \textbf{2025 GenNext Finalist:} Selected among top participants in the GenNext entrepreneurship program.
+\item \textbf{2024 Digithon Finalist:} Recognized among the Top 100 Startups in Italy for a project leveraging iris analysis for disease prevention.
+\item \textbf{2023 ICPC SWERC Participant:} Europe competitive programming competition.
+\item \textbf{2022 TezAsia Hackathon (FinTech):} Top 10 global ranking for innovative blockchain solutions.
+\end{itemize}
+
+
+\section*{Skills}
+\begin{itemize}[noitemsep]
+\item \textbf{Machine Learning Tools:} TensorFlow, PyTorch, Scikit-learn, Keras.
+\item \textbf{Languages:} English (Fluent), Italian (Native), Spanish (Basic).
+\item \textbf{Soft Skills:} Collaborative Research, Critical Thinking, Time Management.
+\end{itemize}
+
+\section*{Extracurricular Activities and Interests}
+
+\textbf{Enactus UniUD member} \hfill \textit{Set 2024 - Present} \\
+Active member of Enactus, an international nonprofit that brings together students, academics, and professionals to tackle pressing issues through entrepreneurial action aligned with the UN Sustainable Development Goals.
+
+
+%\textbf{Personal Passions} \\
+%I'm passionate about staying healthy, balancing my time between running, gym workouts, and reading classic literature (like Dostoyevsky) or engaging comics to relax. I also enjoy building custom PCs, combining my love for technology and problem-solving.
+
+\section*{Privacy Statement}
+\emph{I authorize the processing of my personal data in accordance with Legislative Decree June 30, 2003, no. 196, and GDPR (EU Regulation 2016/679).}
+
+\end{document}

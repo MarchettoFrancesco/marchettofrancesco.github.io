@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <link rel="stylesheet" href="style2.css">
+    
+    <title>Portfolio Projects</title>
+
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <a href="index.html#header"><img src="images/Schermata_2022-08-24_alle_17.21.46-removebg-preview.png" class="logo"></a>
+                <ul id="sidemenu">
+                    <li class="p a"> <a id="p " href="index.html#header"> Home </a></li>
+                    <li> <a id="p" href="index.html#about"> About </a></li>
+                    <li> <a id="p" href="index.html#portfolio"> Portfolio </a></li>
+                    <li> <a id="p" href="index.html#contact"> Contact </a></li>
+                    <li> <input type="checkbox" class="cb" id="cb"> 
+                        <label for="cb" class="label">
+                            <i class="fas fa-moon"></i>
+                            <i class="fas fa-sun"></i>
+                            <div class="ball"></div>
+                        </label></li>
+                        <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="row">
+                <div class="col-1">
+                    <div class="header-text">
+                        <h1><span>Aphelios</span></h1>
+                    </div>
+                    <p id="descrizione">Aphelios is a digital assets investment Dapp, you can copy biggest collectors trading strategies and invest seamlessly in Non-Fungible tokens (NFTs),
+                            furthermore you can Mint and Collect NFTs on top of Tezos blockchain.
+                    </p>
+                    <div class="m2">
+                    <a href="https://github.com/MarchettoFrancesco/NFT-CopyTrading" class="gtb"><p>Check out the <i class="fa-brands fa-github"></i> Repository </p></a>
+                </div></div> 
+                <div class="col-2">
+                    <img class="home" src="images/2.png" alt="HomePage Aphelios">
+                    <p id="photodescription">List of the users who move the biggest amount of Tezos in the Marketplace</p>
+                </div>
+            </div> 
+        </div>
+    </div>
+    
+    <div id="header2">
+        <div class="container">
+            <div class="row1">
+                <div class="col-2">
+                    <img class="home1" src="images/3.png" alt="search Aphelios">
+                    <p id="photodescription">Here you can search for a specific user you want to follow </p>
+                </div>
+                <div class="col-1">
+                    <h2 class="pa"> What did i work on? </h2>
+                    <div class="lista">
+                                <ul>
+                                    <li>Developing Smart Contracts with Smart Py</li>
+                                    <li>Building the UI in Vue.js</li>
+                                    <li>Using Taquito.js and BeaconWallet to interact with Tezos Blockchain</li>
+                                    <li>Getting data with GraphQL objkt API</li>
+                                </ul>
+                    </div>
+                </div>
+        </div> 
+    </div>
+    <div id="header2">
+        <div class="container">
+            <div class="row2">
+                <div class="col-1">
+                    <h2 class="pa"> Dashboard section </h2>
+                    <p id="descrizione">In this section you can analise the activities of the users that you are following, when you press buy you will be redirected to
+                        the NFT Marketplace in order to buy the token.
+                    </p>
+                </div>
+                <div class="col-2">
+                    <img class="home1" src="images/1.png" alt="search Aphelios">
+                </div>
+                
+             </div> 
+        </div>
+    </div>
+    <div id="header3">
+        <div class="container">
+            <div class="row1">
+                
+                <div class="col-2a">
+                    <img class="home1" src="images/4.png" alt="search Aphelios">
+                </div>
+                <div class="col-3">
+                    <img class="home1" src="images/wl.png" alt="search Aphelios">
+                </div>
+                <div class="col-1a">
+                    <h2 class="pa"> Mint your NFT's!</h2>
+                    <div class="lista">
+                                <ul>
+                                    <li>Connect your Tezos Wallet</li>
+                                    <li>Insert the metadata</li>
+                                    <li>Insert the Amount in mutez </li>
+                                    <li>Now you can Mint it!</li>
+                                    
+                                </ul>
+                    </div>
+                </div>
+            </div> 
+     </div>
+    </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright ©Francesco Made with <i class="fas fa-heart"></i> by Me</p>
+    </div>
+    <script src="index.js"></script>
+    <script>
+        ScrollReveal({
+        reset:true,
+        distance:'60px',
+        duration:1500,
+        delay:100
+    });
+    ScrollReveal().reveal('.header-text, #descrizione , .m2',{delay:0,origin:'left'});
+    ScrollReveal().reveal('.home, .home1',{delay:200,origin:'bottom'});                                                              
+    ScrollReveal().reveal('.pa, .lista',{delay:100,origin:'left'});
+    
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbxHwFCCg9y1Qv1nh7j4kvtVsOgtYlkKLe9pBnRPXJlC-OOJ_UMGTWOhBLJSuwNPWDoY/exec'
+        const form = document.forms['submit-to-google-sheet']
+        const msg = document.getElementById("msg");
+        form.addEventListener('submit', e => {
+        e.preventDefault()
+        fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => {
+                msg.innerHTML = "Message sent succesfully"
+                setTimeout(function(){
+                        msg.innerHTML= "" 
+                    },5000)
+                    form.reset() })
+            .catch(error => console.error('Error!', error.message))
+        })
+    </script>
+</body>
+</html>
