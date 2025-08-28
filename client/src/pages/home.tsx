@@ -10,7 +10,7 @@ import {
 import { AnimatedBackground } from "@/components/animated-background";
 import SplashCursor from "@/components/SplashCursor";
 import { ThemeToggle } from "@/components/theme-toggle";
-import seedImage from "./IMG-20230824-WA0016.jpg";
+import seedImage from "./foto.png";
 
 export default function Home() {
   return (
@@ -42,9 +42,6 @@ export default function Home() {
                       alt="Seed"
                       className="w-full h-full object-cover hover:scale-110 transition-transform duration-500"
                     />
-                  </div>
-                  <div className="absolute -bottom-4 -right-4 glass-effect rounded-full p-3 animate-glow">
-                    <BrainCircuit className="w-6 h-6 text-blue-500" />
                   </div>
                 </div>
 
@@ -97,7 +94,9 @@ export default function Home() {
                         Agrichange
                       </a>
                       . Now we will partecipate in the Enactus World Cup in
-                      Thailand.
+                      Thailand. Furthermore I'm really passionate about health
+                      and wellness, and I'm deeply into music and fashion, which
+                      inspire me and keep me creative.
                     </p>
 
                     <div className="grid md:grid-cols-2 gap-6">
