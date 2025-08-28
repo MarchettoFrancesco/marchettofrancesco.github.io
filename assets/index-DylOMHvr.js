@@ -16831,7 +16831,8 @@ function dS() {
                                   className: "text-blue-500 underline",
                                   children: "Agrichange",
                                 }),
-                                ". Now we will partecipate in the Enactus World Cup in Thailand. I care about health and overall wellness, and I’m also deeply into music and fashion, which inspire me and fuel my creativity.",
+                                ". Now we will partecipate in the Enactus World Cup in Thailand.",
+                                " I care about health and overall wellness, and I’m also deeply into music and fashion, which inspire me and fuel my creativity.",
                               ],
                             }),
                             C.jsxs("div", {
