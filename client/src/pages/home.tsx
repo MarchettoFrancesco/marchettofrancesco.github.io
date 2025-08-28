@@ -171,7 +171,50 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        <section class="pt-16 px-6">
+          <div class="max-w-7xl mx-auto">
+            <div class="glass-effect p-8 rounded-2xl backdrop-blur-lg hover:scale-[1.02] transition-all duration-300 space-y-6 opacity-0 animate-fade-in-up text-sm">
+              <div class="flex items-center gap-3 mb-6">
+                <div class="w-1 h-8 bg-gradient-to-b from-green-400 to-blue-500 rounded-full"></div>
+                <h2 class="text-xl font-bold">
+                  Cambridge Experience &amp; Upcoming Seminar
+                </h2>
+              </div>
+              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+                In June 2025, I had the incredible opportunity to take part in a
+                <span class="font-semibold text-blue-600 dark:text-blue-400">
+                  {" "}
+                  study trip to Cambridge
+                </span>
+                , organized with the support of Università degli Studi di Udine
+                and guided by Professor Pietro Liò. Alongside other selected
+                students, we explored cutting-edge AI research across the
+                University of Cambridge, Imperial College London, and The
+                University of Edinburgh.
+              </p>
+              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+                We had direct access to research in areas like
+                <span class="font-semibold text-purple-600 dark:text-purple-400">
+                  {" "}
+                  neurosymbolic AI, category theory, federated learning, and
+                  medical AI
+                </span>
+                . We also met professionals from startups and tech giants like
+                DeepMind, Tenyks, Nokia Bell Labs, and MediaTek.
+              </p>
+              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+                As a result of this transformative journey, I will be
+                <span class="font-semibold text-green-600 dark:text-green-400">
+                  {" "}
+                  hosting a seminar in September
+                </span>{" "}
+                together with other students who joined the trip. We’ll share
+                insights and reflections to inspire our peers and continue the
+                exchange between academia and innovation.
+              </p>
+            </div>
+          </div>
+        </section>
         {/* Footer - Get in Touch */}
         <footer className="relative z-10 py-16 px-6">
           <div className="max-w-4xl mx-auto">
