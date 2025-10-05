@@ -17026,20 +17026,6 @@ function dS() {
                             ". We also met professionals from startups and tech giants like DeepMind, Tenyks, Nokia Bell Labs, and MediaTek.",
                           ],
                         }),
-                        C.jsxs("p", {
-                          className:
-                            "leading-relaxed text-gray-600 dark:text-gray-300",
-                          children: [
-                            "As a result of this transformative journey, I will be",
-                            C.jsxs("span", {
-                              className:
-                                "font-semibold text-green-600 dark:text-green-400",
-                              children: [" ", "hosting a seminar in September"],
-                            }),
-                            " ",
-                            "together with other students who joined the trip. We’ll share insights and reflections to inspire our peers and continue the exchange between academia and innovation.",
-                          ],
-                        }),
                       ],
                     }),
                   }),
