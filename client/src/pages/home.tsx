@@ -235,7 +235,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="https://github.com/francescomarchetto"
+                  href="https://github.com/MarchettoFrancesco"
                   className="glass-effect p-4 rounded-full hover:scale-110 hover:animate-glow transition-all duration-300 group"
                   target="_blank"
                   rel="noopener noreferrer"
