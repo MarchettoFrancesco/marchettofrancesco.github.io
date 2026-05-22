@@ -3,14 +3,13 @@ import {
   Linkedin,
   Github,
   GraduationCap,
-  Trophy,
   Microscope,
   BrainCircuit,
 } from "lucide-react";
 import { AnimatedBackground } from "@/components/animated-background";
 import SplashCursor from "@/components/SplashCursor";
 import { ThemeToggle } from "@/components/theme-toggle";
-import seedImage from "./foto.png";
+import seedImage from "./IMG-20230824-WA0016.jpg";
 
 export default function Home() {
   return (
@@ -53,116 +52,98 @@ export default function Home() {
                     <span className="glass-effect px-4 py-2 rounded-full text-sm font-medium">
                       AI Engineer
                     </span>
-
-                    <span className="glass-effect px-4 py-2 rounded-full text-sm font-medium">
-                      Innovator
-                    </span>
                   </div>
                 </div>
               </div>
 
               {/* Right Section - Description */}
               <div className="lg:col-span-3 space-y-8 opacity-0 animate-fade-in-right">
-                <div className="glass-effect p-8 rounded-2xl backdrop-blur-lg hover:scale-[1.02] transition-all duration-300">
+                <div className="glass-effect p-8 rounded-2xl backdrop-blur-lg hover:scale-[1.02] transition-all duration-300 max-w-2xl ml-auto">
                   <div className="space-y-6">
                     <div className="flex items-center gap-3 mb-6">
                       <div className="w-1 h-8 bg-gradient-to-b from-blue-500 to-purple-600 rounded-full"></div>
                       <h2 className="text-2xl font-bold">About me</h2>
                     </div>
 
-                    <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-                      Passionate AI Engineer specializing in{" "}
+                    <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-300 text-justify">
+                      I am currently working as an{" "}
                       <span className="font-semibold text-blue-600 dark:text-blue-400">
-                        Machine Learning
+                        Intern in Data & AI Engineering
                       </span>{" "}
-                      and{" "}
+                      at{" "}
                       <span className="font-semibold text-purple-600 dark:text-purple-400">
-                        Computer Vision
+                        Nestlé Research
                       </span>{" "}
-                      Currently pursuing my Master's in AI & Cybersecurity while
-                      I also spent some months researching in digital pathology
-                      and medical AI. I am also part of Enactus Udine, where
-                      other than Computer Vision i am also involved in Business
-                      Analysis. In 2025 we won Italy National Champion, with our
-                      innovative project{" "}
-                      <a
-                        href="https://www.linkedin.com/company/agrichange-italia/posts/?feedView=all"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-blue-500 underline"
-                      >
-                        Agrichange
-                      </a>
-                      . Now we will partecipate in the Enactus World Cup in
-                      Thailand. Furthermore I'm really passionate about health
-                      and wellness, and I'm deeply into music and fashion, which
-                      inspire me and keep me creative.
+                      and will graduate in July with a{" "}
+                      <span className="font-semibold">
+                        Master’s degree in Artificial Intelligence & Cybersecurity
+                      </span>
+                      . My background includes{" "}
+                      <span className="font-semibold">
+                        research in AI for Health
+                      </span>
+                      . I first-authored a full paper on{" "}
+                      <span className="font-semibold">
+                        synthetic data augmentation for surgical image generation
+                      </span>
+                      , accepted at{" "}
+                      <span className="font-semibold text-blue-600 dark:text-blue-400">
+                        IEEE CBMS 2026
+                      </span>
+                      , which I will present in Cyprus.
                     </p>
 
-                    <div className="grid md:grid-cols-2 gap-6">
-                      <div className="space-y-4">
-                        <h3 className="text-lg font-semibold flex items-center gap-2">
-                          <GraduationCap className="w-5 h-5 text-blue-500" />
-                          Education
-                        </h3>
-                        <div className="space-y-2 text-sm">
-                          <p className="font-medium">
-                            MS in AI & Cybersecurity
-                          </p>
-                          <p className="text-gray-600 dark:text-gray-400">
-                            Università degli Studi di Udine & University of
-                            Klagenfurt
-                          </p>
-                          <p className="text-gray-500 dark:text-gray-500">
-                            Oct 2024 - Jul 2026
-                          </p>
-                        </div>
-                      </div>
+                    <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-300 text-justify">
+                      Outside of work and research, I am passionate about{" "}
+                      <span className="font-semibold text-purple-600 dark:text-purple-400">
+                        music, fashion, and outdoor activities.
+                      </span>{" "}
+                    </p>
 
-                      <div className="space-y-4">
-                        <h3 className="text-lg font-semibold flex items-center gap-2">
-                          <Trophy className="w-5 h-5 text-yellow-500" />
-                          Achievement
-                        </h3>
-                        <div className="space-y-2 text-sm">
-                          <p className="font-medium text-yellow-600 dark:text-yellow-400">
-                            2025 Enactus Italy National Champion
-                          </p>
-                          <p className="text-gray-600 dark:text-gray-400">
-                            1st place presenting "Agrichange" project
-                          </p>
-                          <p className="text-gray-500 dark:text-gray-500">
-                            Sustainable agriculture innovation
-                          </p>
-                        </div>
+                    <div className="space-y-4">
+                      <h3 className="text-lg font-semibold flex items-center gap-2">
+                        <GraduationCap className="w-5 h-5 text-blue-500" />
+                        Education
+                      </h3>
+                      <div className="space-y-2 text-sm">
+                        <p className="font-medium">
+                          MSc in Artificial Intelligence & Cybersecurity
+                        </p>
+                        <p className="text-gray-600 dark:text-gray-400">
+                          Università degli Studi di Udine & University of
+                          Klagenfurt
+                        </p>
+                        <p className="text-gray-500 dark:text-gray-500">
+                          Oct 2024 - Jul 2026
+                        </p>
                       </div>
                     </div>
 
                     <div className="pt-6 border-t border-gray-200 dark:border-gray-700">
                       <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
                         <Microscope className="w-5 h-5 text-green-500" />
-                        Current and past Research
+                        Research
                       </h3>
+
                       <div className="grid gap-4">
+                        {/* Latest Paper */}
                         <div className="p-4 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-lg">
                           <h4 className="font-medium text-blue-800 dark:text-blue-300">
-                            Computer Vision
+                            Hybrid Semantic Augmentation for Cataract Surgery
+                            Image Synthesis with GANs and Diffusion-based Models
                           </h4>
                           <p className="text-sm text-blue-600 dark:text-blue-400 mt-1">
-                            Developing AI and computer vision systems to detect
-                            seed germination and monitor growth over time with
-                            precision.
+                            Novel algorithm in Semantic mask–based augmentation
+                            using GANs and diffusion models to improve surgical
+                            image generation in data-scarce settings.
+                            <span className="italic">
+                              {" "}
+                              (Accepted IEEE CBMS 2026)
+                            </span>
                           </p>
                         </div>
-                        <div className="p-4 bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 rounded-lg">
-                          <h4 className="font-medium text-purple-800 dark:text-purple-300">
-                            Medical NLP
-                          </h4>
-                          <p className="text-sm text-purple-600 dark:text-purple-400 mt-1">
-                            Fine-tuning transformer models for medical text
-                            classification and analysis
-                          </p>
-                        </div>
+
+
                       </div>
                     </div>
                   </div>
@@ -171,16 +152,16 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section class="pt-16 px-6">
-          <div class="max-w-7xl mx-auto">
-            <div class="glass-effect p-8 rounded-2xl backdrop-blur-lg hover:scale-[1.02] transition-all duration-300 space-y-6 opacity-0 animate-fade-in-up text-sm">
-              <div class="flex items-center gap-3 mb-6">
-                <div class="w-1 h-8 bg-gradient-to-b from-green-400 to-blue-500 rounded-full"></div>
-                <h2 class="text-xl font-bold">Cambridge Experience</h2>
+        <section className="pt-16 px-6">
+          <div className="max-w-7xl mx-auto">
+            <div className="glass-effect p-8 rounded-2xl backdrop-blur-lg hover:scale-[1.02] transition-all duration-300 space-y-6 opacity-0 animate-fade-in-up text-sm">
+              <div className="flex items-center gap-3 mb-6">
+                <div className="w-1 h-8 bg-gradient-to-b from-green-400 to-blue-500 rounded-full"></div>
+                <h2 className="text-xl font-bold">Cambridge Experience</h2>
               </div>
-              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+              <p className="leading-relaxed text-gray-600 dark:text-gray-300">
                 In June 2025, I had the incredible opportunity to take part in a
-                <span class="font-semibold text-blue-600 dark:text-blue-400">
+                <span className="font-semibold text-blue-600 dark:text-blue-400">
                   {" "}
                   study trip to Cambridge
                 </span>
@@ -190,9 +171,9 @@ export default function Home() {
                 University of Cambridge, Imperial College London, and The
                 University of Edinburgh.
               </p>
-              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+              <p className="leading-relaxed text-gray-600 dark:text-gray-300">
                 We had direct access to research in areas like
-                <span class="font-semibold text-purple-600 dark:text-purple-400">
+                <span className="font-semibold text-purple-600 dark:text-purple-400">
                   {" "}
                   neurosymbolic AI, category theory, federated learning, and
                   medical AI
@@ -247,8 +228,7 @@ export default function Home() {
 
               <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
                 <p className="text-sm text-gray-500 dark:text-gray-400">
-                  📍 Villorba, TV, Italy • 🎓 AI & Cybersecurity Student • 🏆
-                  Enactus National Champion 2025
+                  📍 Lausanne, Switzerland • 🎓 Data & AI Engineering Intern at Nestlé Research
                 </p>
               </div>
             </div>
